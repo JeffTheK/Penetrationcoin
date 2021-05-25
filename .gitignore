@@ -1,13 +1,13 @@
 *.tar.gz
 
 *.exe
-src/Aristocoin
-src/Aristocoind
-src/Aristocoin-cli
-src/dAristocoin-tx
-src/test/test_Aristocoin
-src/test/test_Aristocoin_fuzzy
-src/qt/test/test_Aristocoin-qt
+src/Penetrationcoin
+src/Penetrationcoind
+src/Penetrationcoin-cli
+src/Penetrationcoin-tx
+src/test/test_Penetrationcoin
+src/test/test_Penetrationcoin_fuzzy
+src/qt/test/test_Penetrationcoin-qt
 
 # autoreconf
 Makefile.in
@@ -74,12 +74,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-dogecoin-qt
+Penetrationcoin-qt
 Bitcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-dogecoin-qt_test
+Penetrationcoin-qt_test
 src/test/buildenv.py
 
 # Resources cpp
